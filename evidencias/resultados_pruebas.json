@@ -1,0 +1,77 @@
+[
+  {
+    "prueba": "Desbordamiento horizontal 390 px",
+    "resultado": "OK",
+    "detalle": "scrollWidth=390, clientWidth=390"
+  },
+  {
+    "prueba": "Menú móvil y tecla Escape",
+    "resultado": "OK",
+    "detalle": "open=true; afterEscape=false"
+  },
+  {
+    "prueba": "Filtro de talleres y estado anunciado",
+    "resultado": "OK",
+    "detalle": "cardsVisible=2; status=Se muestran 2 actividades."
+  },
+  {
+    "prueba": "Validación de formulario vacío",
+    "resultado": "OK",
+    "detalle": "aria-invalid=true; mensaje=Escribe tu nombre (al menos 2 caracteres)."
+  },
+  {
+    "prueba": "Formulario válido, sin envío de datos",
+    "resultado": "OK",
+    "detalle": "Formulario validado correctamente. Esta demostración no envía ni almacena tus datos."
+  },
+  {
+    "prueba": "Desbordamiento horizontal 320 px",
+    "resultado": "OK",
+    "detalle": "scrollWidth=320, clientWidth=320"
+  },
+  {
+    "prueba": "Desbordamiento horizontal 768 px",
+    "resultado": "OK",
+    "detalle": "scrollWidth=768, clientWidth=768"
+  },
+  {
+    "prueba": "Desbordamiento horizontal 1440 px",
+    "resultado": "OK",
+    "detalle": "scrollWidth=1440, clientWidth=1440"
+  },
+  {
+    "prueba": "Primer foco de teclado (enlace para saltar al contenido)",
+    "resultado": "OK",
+    "detalle": "activeElement class=skip-link"
+  },
+  {
+    "prueba": "Errores JavaScript no controlados",
+    "resultado": "OK",
+    "detalle": "Sin errores de consola pageerror"
+  },
+  {
+    "prueba": "Una sola etiqueta h1",
+    "resultado": "OK",
+    "detalle": "h1_count=1"
+  },
+  {
+    "prueba": "Identificadores HTML únicos",
+    "resultado": "OK",
+    "detalle": "duplicados=[]"
+  },
+  {
+    "prueba": "Enlaces internos con destino válido",
+    "resultado": "OK",
+    "detalle": "destinos_sin_id=[]"
+  },
+  {
+    "prueba": "Imágenes con texto alternativo",
+    "resultado": "OK",
+    "detalle": "imagenes_sin_alt=0"
+  },
+  {
+    "prueba": "Campos de formulario con etiqueta asociada",
+    "resultado": "OK",
+    "detalle": "campos_sin_label=[]"
+  }
+]
