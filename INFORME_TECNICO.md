@@ -3,7 +3,7 @@
 **Asignatura:** Aplicaciones Web · Unidad 1  
 **Estudiante:** [Completar con nombre y apellido]  
 **Tipo de entrega:** sitio web estático demostrativo  
-**Estado de publicación:** proyecto local; repositorio y demostración web pendientes de publicar.
+**Estado de publicación:** proyecto subido al repositorio; la publicación de GitHub Pages debe confirmarse.
 
 ## 1. Objetivo y organización
 
@@ -40,10 +40,10 @@ La selección de colores principal ofrece contraste suficiente en los pares revi
 
 ## 5. Mejoras pendientes
 
-El formulario es solo una demostración: no envía ni almacena datos y necesita un backend seguro para un uso real. Antes de producción se debe sustituir el contenido ficticio por información confirmada, publicar el repositorio y la demostración, probar con lectores de pantalla y completar una auditoría de accesibilidad independiente.
+El formulario es solo una demostración: no envía ni almacena datos y necesita un backend seguro para un uso real. Antes de producción se debe sustituir el contenido ficticio por información confirmada y probar con lectores de pantalla. Falta confirmar el despliegue público de GitHub Pages y hacer una auditoría de accesibilidad independiente.
 
-**Repositorio:** pendiente de crear/publicar; incorporar aquí la URL real.  
-**Demostración:** pendiente de desplegar; incorporar aquí la URL real.
+**Repositorio:** https://github.com/juangarcia5673/aula-abierta-web  
+**Demostración web:** pendiente de publicación en GitHub Pages.
 
 ## Referencias
 
